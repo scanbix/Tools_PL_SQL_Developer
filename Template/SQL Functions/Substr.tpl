@@ -1,0 +1,1 @@
+Substr([#]char, startpos, length)

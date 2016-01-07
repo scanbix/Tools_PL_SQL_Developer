@@ -1,0 +1,1 @@
+Mod([#]n, divisor)

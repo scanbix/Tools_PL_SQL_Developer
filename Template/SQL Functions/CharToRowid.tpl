@@ -1,0 +1,1 @@
+CharToRowid([#]char)

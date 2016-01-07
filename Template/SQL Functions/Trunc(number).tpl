@@ -1,0 +1,1 @@
+Trunc([#]n, decimals)

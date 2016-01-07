@@ -1,0 +1,1 @@
+[#]i binary_integer;

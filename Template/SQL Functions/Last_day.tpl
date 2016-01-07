@@ -1,0 +1,1 @@
+Last_day([#]date)

@@ -1,0 +1,1 @@
+LTrim([#]char, set)

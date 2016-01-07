@@ -1,0 +1,1 @@
+HexToRaw([#]char)

@@ -1,0 +1,1 @@
+RTrim([#]char, set)
