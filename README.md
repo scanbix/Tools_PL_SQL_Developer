@@ -10,4 +10,4 @@ Code templates and snippets for PL/SQL Developer. Merge with existing ones in th
 
 File "AutoReplace.txt"
 
-Download and merge **AutoReplace.txt** file in order to autoreplace keywords with templates and snippets. This file is assigned in PL/SQL Developer menu *Tools -> Preferences -> Editor -> AutoReplace*
+Download and merge **AutoReplace.txt** file in order to autoreplace keywords with templates and snippets. Put the file e.g *"C:\Program Files (x86)\PLSQL Developer\"* This file is assigned in PL/SQL Developer menu *Tools -> Preferences -> Editor -> AutoReplace*.
