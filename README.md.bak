@@ -1,4 +1,4 @@
-# PL/SQL Developer
+# PL-SQL-Deverloper
 Scripts, code, items for Allround Automation PL/SQL Developer tool
 http://www.allroundautomations.com/
 
@@ -7,8 +7,6 @@ Download latest release https://github.com/scanbix/PL-SQL-Developer/releases/lat
 Folder "Template"
 
 Code templates and snippets for PL/SQL Developer. Merge with existing ones in the installation path, e.g. *"C:\Program Files (x86)\PLSQL Developer\Template"*
-or
-Code templates and snippets for PL/SQL Developer. Merge with existing ones in the app data, e.g. *"%APPDATA%\PLSQL Developer 12\Template"*.
 
 File "AutoReplace.txt"
 
